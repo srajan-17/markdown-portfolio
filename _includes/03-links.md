@@ -1,1 +1,1 @@
-[Miniclip] (https://www.miniclip.com)
+[Miniclip](https://www.miniclip.com)
