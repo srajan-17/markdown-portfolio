@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* rubiks cube
+* xbox one
+  * racing games
+  
+:tada:
+:+1:
+:palm_tree:
